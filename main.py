@@ -19,4 +19,4 @@ if __name__ == '__main__':
 # TODO: pycharm learn
 # TODO: ooo tutoriial
 # TODO : youtube basic tutorials
-# TODO: NLP sentiment details
+# TODO: NLP sentiment details - https://medium.datadriveninvestor.com/sentiment-analysis-of-stocks-from-financial-news-using-python-82ebdcefb638
